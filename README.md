@@ -4,7 +4,7 @@
   <img src="https://github.com/robsondionisio/curso-proz/assets/108960277/d8538012-5431-470e-b6a4-5ba8b39c73d8">
 </div>
 <br>
-Este repositório foi criado para armazenar as atividades do curso da **Curso Proz Tecnologia**.
+Este repositório foi criado para armazenar as atividades do curso da Curso Proz Tecnologia.
 
 ## Descrição
 
